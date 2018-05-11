@@ -1,4 +1,3 @@
-# burst_find_game
 # Burst Detect Game Tool
 
 This tool use used to find bursts in signals 
@@ -47,7 +46,7 @@ python src/main.py
 
 ## This will bring up a matplotlib window 
 
-![](https://media.giphy.com/media/13e2AGZ0KBvlUvCmUZ/giphy.gif)
+![](https://media.giphy.com/media/AiSXqPlu4MCRqO6TQE/giphy.gif)
 
 # Things to know about the tool
 
