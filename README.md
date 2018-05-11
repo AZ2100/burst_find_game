@@ -46,7 +46,7 @@ python src/main.py
 
 ## This will bring up a matplotlib window 
 
-![](https://media.giphy.com/media/AiSXqPlu4MCRqO6TQE/giphy.gif)
+![](https://media.giphy.com/media/9SIMHyfhYAyTHCDLgh/giphy.gif)
 
 # Things to know about the tool
 
